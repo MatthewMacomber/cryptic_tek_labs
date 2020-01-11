@@ -1,10 +1,10 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Cryptic Tek Labs
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+The homepage of Cryptic Tek Labs.
+We work on software, hardware and more.
 
 
